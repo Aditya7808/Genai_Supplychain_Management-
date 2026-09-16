@@ -1,0 +1,6 @@
+Warehouse_ID,Primary_Region,City,Capacity_Units,Fixed_Cost_Per_Day_INR
+WH_1,North,Delhi,42000,18000
+WH_2,West,Mumbai,55000,24000
+WH_3,South,Chennai,38000,15500
+WH_4,East,Kolkata,36000,14800
+WH_5,West,Pune,47000,20500
